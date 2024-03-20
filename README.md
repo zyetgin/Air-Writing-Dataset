@@ -6,7 +6,7 @@ Steps:
 
    data is an array of matrices where data{i} contains the signal values of the 6 sensors, as a matrice(6xn), for the letter(i) and user(i)
 
-3) Please cite the following papers in order to use the dataset.
+2) Please cite the following papers in order to use the dataset.
    
    i- Kunt, H., Yetgin, Z., Gözükara, F., Çelik, T. (2024). Letter and Person Recognition in Freeform Air-Writing using Machine Learning Algorithms, submitted to Multimedia Tools and Applications
 
