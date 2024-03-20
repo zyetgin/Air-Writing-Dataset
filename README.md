@@ -10,4 +10,4 @@ Steps:
    
    i- Kunt, H., Yetgin, Z., Gözükara, F., Çelik, T. (2024). Letter and Person Recognition in Freeform Air-Writing using Machine Learning Algorithms, submitted to Multimedia Tools and Applications
 
-  ii- Ecer, O., Yetgin, Z., & Çelik, T. (2018). Air Write Letter Recognition Using Random Forest Classification on Arduino Dataset. International Journal of Scientific and Technological Research, 4, 1-9.
+   ii- Ecer, O., Yetgin, Z., & Çelik, T. (2018). Air Write Letter Recognition Using Random Forest Classification on Arduino Dataset. International Journal of Scientific and Technological Research, 4, 1-9.
